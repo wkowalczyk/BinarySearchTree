@@ -9,7 +9,7 @@
 
 using namespace std;
 
-
+//Done by Emily and Weronika
 int main(int argc, char * argv []) {
 
 	//struct timeval start, finish;
